@@ -1,0 +1,6 @@
+cd Python36\Scripts
+pip install matplotlib
+pip install scipy
+
+uninstall numpy
+pip install numpy-1

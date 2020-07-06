@@ -1,0 +1,6 @@
+Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,Engine Size,Cylinders,Horsepower,MPG,Wheelbase,Length
+Acura,MDX,SUV,Asia,All,36945,33337,3.5,6,4451,17,106,189
+Acura,RSX,Sedan,Asia,Front,2380,21761,2,4,2778,24,101,172
+Acura,TSX,Sedan,Asia,Front,26990,24647,2.4,4,3230,22,105,183
+Acura,TL,Sedan,Asia,Front,33195,30229,3.2,6,3575,20,108,186
+Acura,RL,Sedan,Asia,Front,43755,39014,3.5,6,3880,18,115,197
